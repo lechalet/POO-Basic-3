@@ -14,4 +14,5 @@ final class MotorWay extends HighWay
             $this->currentVehicles[] = $vehicleSentByUser;
         }
     }
+    
 }
