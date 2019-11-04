@@ -1,0 +1,18 @@
+{
+    "name": "vendor/romain",
+    "authors": [
+        {
+            "name": "Bardoux romain",
+            "email": "r.bardouxx@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload":
+    
+    {
+    "psr-4":
+        {
+            "App\\":"src/Model"
+        }
+    }
+}
